@@ -18,5 +18,4 @@ O terceiro desafio envolve a contagem de pares em um array de inteiros que têm 
 
 O quarto desafio trata de decifrar linhas de texto que foram impressas de forma incorreta. A descrição completa do desafio, exemplos de entrada e saída, e a solução implementada podem ser encontrados no arquivo [Desafio4.java](./src/main/java/desafio4/Desafio4.java).
 
-Sinta-se à vontade para explorar cada um dos desafios e verificar as soluções implementadas. Divirta-se resolvendo-os!
-
+Aprecie!
